@@ -1,3 +1,4 @@
 *.cache
 User/Package Control.last-run
 *.pyc
+.DS_Store

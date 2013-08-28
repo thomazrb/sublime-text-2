@@ -1,0 +1,14 @@
+[
+        { "keys": ["ctrl+shift+."], "command": "erb", "context":
+      [
+        { "key": "selector", "operator": "equal", "operand": "text.html.ruby, text.haml, source.yaml, source.css, source.scss, source.js, source.coffee" }
+      ]
+    },
+    { "keys": ["ctrl+."], "command": "change_quotes"},
+    { "keys": ["ctrl+t"], "command": "side_bar_new_file" },
+    { "keys": ["ctrl+shift+r"], "command": "side_bar_rename"},
+    { "keys": ["ctrl+shift+m"], "command": "side_bar_move"},
+    { "keys": ["ctrl+alt+f"], "command": "side_bar_find_files_path_containing" },
+    { "keys": ["ctrl+shift+;"], "command": "toggle_symbol" },
+    { "keys": ["ctrl+alt+e"], "command": "bh_toggle_enable" }
+]

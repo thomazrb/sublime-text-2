@@ -7,12 +7,12 @@
 		"BracketHighlighter",
 		"BufferScroll",
 		"ChangeQuotes",
-		"ERB Insert and Toggle Commands",
 		"Expand Selection to Quotes",
 		"IndentGuides",
 		"LaTeXTools",
 		"Package Control",
 		"SideBarEnhancements",
+		"SublimeERB",
 		"Toggle Symbol to String"
 	]
 }

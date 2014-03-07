@@ -23,7 +23,7 @@
 	"caret_style": "phase",
 	"close_windows_when_empty": false,
 	"color_scheme": "Packages/User/Espresso Soda.tmTheme",
-	"dictionary": "Packages/Language - Spanish/es_ANY_utf-8.dic",
+	"dictionary": "Packages/Language - English/en_US.dic",
 	"drag_text": false,
 	"ensure_newline_at_eof_on_save": true,
 	"fade_fold_buttons": false,
@@ -77,7 +77,7 @@
 	"save_on_focus_lost": false,
 	"show_full_path": true,
 	"soda_classic_tabs": false,
-	"tab_size": 2,
+	"tab_size": 4,
 	"theme": "Soda Light.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true

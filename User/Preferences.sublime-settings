@@ -23,7 +23,7 @@
 	"caret_style": "phase",
 	"close_windows_when_empty": false,
 	"color_scheme": "Packages/User/Espresso Soda.tmTheme",
-	"dictionary": "Packages/Language - English/en_US.dic",
+	"dictionary": "Packages/Language - Brazilian Portuguese/Portuguese (Brazilian).dic",
 	"drag_text": false,
 	"ensure_newline_at_eof_on_save": true,
 	"fade_fold_buttons": false,
@@ -41,7 +41,9 @@
 		"*.blg",
 		"*fdb_latexmk",
 		"*fls",
-		"*synctex.gz"
+		"*synctex.gz",
+		"*.out",
+		"*.toc"
 	],
 	"folder_exclude_patterns":
 	[
